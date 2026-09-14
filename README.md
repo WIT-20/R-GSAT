@@ -14,6 +14,9 @@ The proposed framework focuses on two major challenges:
 
 * **Feature-level geometric ambiguity**, addressed by Geometric Self-Attenuation (GSA).
 * **Instance-level fragmentation under occlusion**, addressed through global geometric reasoning with a Learnable Reliability Modulator (LRM).
+<p align="center">
+  <img src="assets/overview.png" width="95%">
+</p>
 
 ## Code Release
 
